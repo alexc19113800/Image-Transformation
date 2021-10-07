@@ -1,5 +1,5 @@
 # Image-Transformation
-A project that allows cropping images and transform them into rectangles using linear algebra. Similar to what the app "Scannable" does.
+A project that transforms any 4-sided polygon in an image into a rectangle of desired size. Similar to what the app "Scannable" does.
 
 ![alt text](https://user-images.githubusercontent.com/24749416/136319197-cfb43ca8-2802-4ef3-97fe-24846b8ce84a.PNG)
 ![alt text](https://user-images.githubusercontent.com/24749416/136319192-b1d1f39c-ebea-4b2d-bcc7-dadca26edb0e.PNG)
