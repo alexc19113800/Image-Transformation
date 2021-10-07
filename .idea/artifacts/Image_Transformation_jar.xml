@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Image Transformation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Image_Transformation_jar</output-path>
+    <root id="archive" name="Image Transformation.jar">
+      <element id="module-output" name="Image Transformation" />
+    </root>
+  </artifact>
+</component>
